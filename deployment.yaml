@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: leeo021/ci-cd-hello-app:be4c86e # ATENÇÃO AQUI
+          image: leeo021/ci-cd-hello-app:458a17a # ATENÇÃO AQUI
           ports:
             - containerPort: 80
